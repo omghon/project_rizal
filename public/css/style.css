@@ -1,0 +1,10 @@
+.container{
+    padding-top: 100px;
+}
+.carousel-inner{
+    height: 500px;
+    margin-bottom: 50px;
+}
+.navbar{
+    background-color: #e60c0c
+}
